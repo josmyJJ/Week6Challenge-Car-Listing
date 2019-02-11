@@ -1,4 +1,4 @@
-# Week6ChallengeUpdated
+# Week6Challenge - Car Listing
 
 You client is a car dealership. Their competitor across the street has a site that looks like this: http://week6challenge-v1.herokuapp.com/ (Links to an external site.)Links to an external site.
 
